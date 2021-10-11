@@ -1,0 +1,23 @@
+{
+  "name": "nodejswatermark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalSzumowski/NodeJSWatermark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichalSzumowski/NodeJSWatermark/issues"
+  },
+  "homepage": "https://github.com/MichalSzumowski/NodeJSWatermark#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jimp": "^0.6.4"
+  }
+}
